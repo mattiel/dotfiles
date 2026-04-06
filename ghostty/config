@@ -1,16 +1,26 @@
-# Ghostty Configuration
-
-# Font
-font-family = CommitMono
-font-size = 14
-
-# Theme
-theme = GruvboxDark
+# Colors
+#theme = light:GitHub Light Default,dark:GitHub Dark High Contrast
+theme = Github Dark High Contrast
 
 # Window
-window-padding-x = 12
+window-colorspace = display-p3
+window-padding-x = 16
 window-padding-y = 12
-window-decoration = false
+window-theme = system
+background-opacity = 0.92
+background-blur = macos-glass-clear
+unfocused-split-opacity = 0.7
 
-# Shell
-shell-integration = zsh
+# macOS
+macos-icon = blueprint
+macos-icon-frame = plastic
+macos-window-buttons = hidden
+macos-titlebar-style = tabs
+auto-update-channel = tip
+
+# Fonts
+font-family = CommitMono
+font-size = 12
+
+# Advanced
+adjust-cell-height = 6

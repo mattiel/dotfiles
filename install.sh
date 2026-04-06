@@ -57,7 +57,7 @@ link "git/.gitconfig"        "$HOME/.gitconfig"
 link "git/.gitignore_global" "$HOME/.gitignore_global"
 
 # Ghostty
-link "ghostty/config" "$HOME/.config/ghostty/config"
+link "ghostty/config" "$HOME/Library/Application Support/com.mitchellh.ghostty/config"
 
 # VS Code
 VSCODE_DIR="$HOME/Library/Application Support/Code/User"
