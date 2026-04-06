@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "editor.fontFamily": "CommitMono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "npm.packageManager": "npm",
+    "prettier.singleQuote": true,
+    "javascript.preferences.quoteStyle": "single",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

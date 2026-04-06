@@ -1,0 +1,16 @@
+# Ghostty Configuration
+
+# Font
+font-family = CommitMono
+font-size = 14
+
+# Theme
+theme = GruvboxDark
+
+# Window
+window-padding-x = 12
+window-padding-y = 12
+window-decoration = false
+
+# Shell
+shell-integration = zsh
